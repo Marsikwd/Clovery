@@ -435,13 +435,13 @@ p.field span.i {
   .box-info {
     top: 320px;
     right: 10px !important;
-
   }
 
   .footer {
     margin-top: 910px;
   }
 }
+
 @media screen and (max-width: 640px) {
 
   .box-form {
