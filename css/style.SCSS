@@ -538,6 +538,7 @@ body {
 
 	&__img {
 		float: left;
+		min-width: 161px;
 	}
 
 	&__titel {
@@ -838,7 +839,8 @@ body {
 	&__btn {
 		width: 167px;
 		height: 19px;
-		padding: 0;
+		font-size: 12px;
+		padding-top: 3px;
 		text-align: center;
 	}
 

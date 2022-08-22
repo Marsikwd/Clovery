@@ -247,6 +247,10 @@
 .col2 {
     width: 80%;
   }
+
+  .item-category__content {
+    width: 50%;
+  }
 }
 @media screen and (max-width: 380px) {
   .body-footer__head {

@@ -150,9 +150,11 @@
 	.showMenu {
 		transform: translateX(0);
 	}
-	.active{
+
+	.active {
 		transform: translateX(0);
 	}
+
 	.main {
 		padding: 0;
 
@@ -250,6 +252,12 @@
 	.col2 {
 		width: 80%;
 	}
+
+	.item-category {
+		&__content {
+			width: 50%;
+		}
+	}
 }
 
 @media screen and (max-width: 380px) {
@@ -269,6 +277,7 @@
 			text-align: center;
 		}
 	}
+
 }
 
 @media screen and (max-width: 300px) {
